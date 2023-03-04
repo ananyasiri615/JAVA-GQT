@@ -14,7 +14,6 @@ class Calci{
 		c = 100;
 		//e = 20; //local variables cannot be accessed outside the method
 	}
-	
 }
 public class Program2 {
 	public static void main(String args[]) {
